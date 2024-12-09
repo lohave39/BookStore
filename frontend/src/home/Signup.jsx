@@ -26,7 +26,7 @@ function Signup() {
             <h3 className="font-bold text-lg text-pink-500">Sign Up:</h3>
             <form onSubmit={handleSubmit(onSubmit)}>
               <div className="m-4 space-y-2">
-                <label>Email:</label>
+                <label>Email :</label>
                 <br />
                 <input
                   type="text"
